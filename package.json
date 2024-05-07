@@ -1,5 +1,5 @@
 {
-  "name": "api-rate-limiter",
+  "name": "@fantazer/api-rate-limiter",
   "version": "1.0.0",
   "description": "library for limiting your api rate",
   "url": "git@github.com:FANTAZER-NURE/api-rate-limiter.git",
