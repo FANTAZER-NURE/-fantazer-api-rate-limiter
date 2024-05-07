@@ -1,6 +1,6 @@
 {
   "name": "@fantazer/api-rate-limiter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "library for limiting your api rate",
   "url": "git@github.com:FANTAZER-NURE/api-rate-limiter.git",
   "main": "index.js",
@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "fantazer",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@fantazer/markdown-to-html-converter": "^1.0.1"
+  }
 }
