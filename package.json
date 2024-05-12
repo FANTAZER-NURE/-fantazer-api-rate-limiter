@@ -2,7 +2,7 @@
   "name": "@fantazer/api-rate-limiter",
   "version": "1.0.2",
   "description": "library for limiting your api rate",
-  "url": "git@github.com:FANTAZER-NURE/api-rate-limiter.git",
+  "url": "git@github.com:FANTAZER-NURE/fantazer-api-rate-limiter.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
